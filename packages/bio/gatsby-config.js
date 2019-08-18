@@ -57,7 +57,7 @@ module.exports = (themeOptions) => {
           path: options.homePath,
         },
       },
-      "gatsby-plugin-mdx",
+      // "gatsby-plugin-mdx",
       "gatsby-plugin-react-helmet",
       "gatsby-transformer-yaml",
       "gatsby-plugin-sharp",
