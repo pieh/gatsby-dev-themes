@@ -53,7 +53,7 @@ module.exports = (themeOptions) => {
               },
             },
             "gatsby-remark-autolink-headers",
-            "gatsby-remark-slug",
+            // "gatsby-remark-slug",
             "gatsby-remark-copy-linked-files",
             "gatsby-remark-numbered-footnotes",
             "gatsby-remark-smartypants",
